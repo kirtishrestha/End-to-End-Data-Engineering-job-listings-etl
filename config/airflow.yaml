@@ -1,0 +1,7 @@
+default_args:
+  owner: "airflow"
+  depends_on_past: false
+  email_on_failure: true
+  retries: 2
+  retry_delay: 5m
+

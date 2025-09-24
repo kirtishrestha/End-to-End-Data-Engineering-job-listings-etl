@@ -1,0 +1,16 @@
+# # Database Configuration
+# databases:
+#   postgresql:
+#     host: localhost
+#     port: 5432
+#     database: workforce_db
+#     user: postgres
+#     # password: your_password
+  
+#   snowflake:
+#     account: DRB20639
+#     user: KIRTISHRESTHA
+#     # password: your_password
+#     database: workforce_db
+#     schema: landing
+#     warehouse: COMPUTE_WH
